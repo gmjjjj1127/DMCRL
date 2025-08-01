@@ -1,7 +1,4 @@
-# DMCRL: Deep Multi-View Contrastive
-
-Representation Learning for Drug–Target Affinity
-Prediction
+# DMCRL: Deep Multi-View Contrastive Representation Learning for Drug–Target Affinity Prediction
 
 ## Project Structure
 
