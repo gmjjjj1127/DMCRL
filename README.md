@@ -1,5 +1,5 @@
 # DMCRL: Deep Multi-View Contrastive Representation Learning for Drug–Target Affinity Prediction
-
+For any questions or further information, please reach out to Haitao Fu (Email: fuhaitao@hubu.edu.cn, https://ai.hubu.edu.cn/info/1025/2041.htm).
 ## Project Structure
 
 `Args.py`: Argument parsing and default hyperparameter setting.
